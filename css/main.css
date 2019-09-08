@@ -2320,7 +2320,7 @@ h4, h5, h6, .h4, .h5, .h6 {
   margin-bottom: 15px; }
 
 p {
-  margin-bottom: 20px; }
+  margin-bottom: 10px; }
 
 a, input[type="submit"] {
   transition: all 0.3s ease-in-out; }
@@ -4109,7 +4109,7 @@ textarea {
 .our-portfolio-3 .portfolio-content .portfolio-title {
   font-size: 14px;
   letter-spacing: 1px;
-  margin-bottom: 8px; }
+  margin-bottom: 10px; }
 
 .our-portfolio-3 .portfolio-content .portfolio-title a {
   color: #fff; }
@@ -6173,7 +6173,7 @@ textarea {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 2px;
-  margin: 0; }
+  margin: 10px; }
 
 .portfolio-content .portfolio-title a {
   color: #fff; }
